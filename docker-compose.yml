@@ -1,0 +1,6 @@
+version ' 4.73.1'
+
+services:
+  mssql_db:
+    container_name: msql_container
+    image: imageName
